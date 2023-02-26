@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PastimeApplication</string>
+
+    <!-- activity_main -->
+    <string name="act_main.tv.accessibility">Accessibility:</string>
+    <string name="act_main.tv.price">Price:</string>
+    <string name="act_main.tv.next_activity">Get next activity:</string>
+    <string name="act_main.btn.next_activity">Go</string>
+
+</resources>
